@@ -7,8 +7,7 @@ Smart assist basically creates a study environment for the students and ease the
 This summary is processed by using natural language processing and deep learning. By the use of natural language toolkit we can find the important questions with their answers and some important keywords related to the paragraph.
 
 # Objective
-1. It is helpful for endtime revision for a student. Now students can get short summary, important questions and answers, keywords and their meanings from
-   video lectures, audio lectures and texts.
+1. It is helpful for endtime revision for a student. Now students can get short summary, important questions and answers, keywords and their meanings from video lectures, audio lectures and texts.
 2. Sometimes it’s too boring to read long long paragraphs, watching long videos, or hearing long audios. And sometimes even we do not have enough time for      the same.
 3. It is also helpful for the teachers to generate questions for the exams by using their own video lectures itself.
 
